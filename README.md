@@ -47,6 +47,7 @@ Business Intelligence
 Spotify Streaming Dashboard
 
 ![Dashboard](Spotify.png)
+
 📌 Business Value
 
 Supports music performance monitoring
